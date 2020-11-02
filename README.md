@@ -1,1 +1,2 @@
-# BlackJack_CardGame
+# BlackJack Card Game
+## CodXCrypt Community Project
