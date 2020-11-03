@@ -3,4 +3,14 @@
 
 ### Study Material Before starting the project
 
-Will upload soon.......
+
+####  Python For Beginners:
+
+https://www.youtube.com/watch?v=woVJ4N5nl_s
+
+
+#### Complete Python:
+
+https://youtu.be/8DvywoWv6fI
+
+
