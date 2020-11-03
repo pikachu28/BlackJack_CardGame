@@ -24,3 +24,10 @@ https://youtu.be/8DvywoWv6fI
 https://courses.telusko.com/learn/Python
 
 https://www.learnpython.org/ (Learn the Basic Would be enough For the project)
+
+
+#### Tkinter Basic:
+
+https://www.youtube.com/watch?v=VMP1oQOxfM0
+
+For more related content for the project I will upload Code by Today OR Tomorrow
