@@ -21,3 +21,5 @@ https://youtu.be/8DvywoWv6fI
 #### Courses You can Avail:
 
 https://courses.telusko.com/learn/Python
+
+https://www.learnpython.org/ (Learn the Basic Would be enough For the project)
